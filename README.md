@@ -1,4 +1,4 @@
-# dall-E
+# uae-code-image-generation
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -33,5 +33,4 @@ npm run build
 ```sh
 npm run lint
 ```
-# Dall-E-Vuejs-App
-# uae-code-image-generation
+
